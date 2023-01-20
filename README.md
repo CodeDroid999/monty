@@ -82,5 +82,5 @@ Available operation codes:
 
 
 Authors: 
-John Mwega
+John Mwega :
 Ayoola Ademola
