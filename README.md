@@ -83,4 +83,4 @@ Available operation codes:
 
 Authors: 
 John Mwega
-Ayyola Ademola
+Ayoola Ademola
