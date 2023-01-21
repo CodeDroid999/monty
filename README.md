@@ -79,9 +79,7 @@ Available operation codes:
 |queue  | Sets the format of the data into a queue (FIFO).|
 
 
-
-
-Authors:
+### Authors:
 <ol>
 <li>John Mwega </li>
 <li>Ayoola Ademola </Li>
