@@ -81,6 +81,8 @@ Available operation codes:
 
 
 
-Authors: 
-John Mwega :
-Ayoola Ademola
+Authors:
+<ol>
+<li>John Mwega </li>
+<li>Ayoola Ademola </Li>
+</ol>
